@@ -41,7 +41,7 @@ With expertise in Python, Java, web development, and database management,I aim t
 
 - 🎓 **Bachelor of Technology in Computer Science Engineering** (Expected Graduation: 2026)
   - Dr. A.P.J Abdul Kalam Technical University,Lucknow
-  - Current Academic Performance: 8.1 CGPA (1st Year); 8.2 CGPA (2nd Year); Expected 9.0 CGPA (3rd Year)
+  - Current Academic Performance: 8.1 CGPA (1st Year); 8.2 CGPA (2nd Year);  8.7 CGPA (3rd Year), 9.2 CGPA (4th year)
 
 - 🏅 **Diploma in Computer Applications**
   - Rashtriya Sarva Shiksha Abhiyan India
