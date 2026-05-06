@@ -1,97 +1,123 @@
-🌟 **Welcome to My GitHub Profile!** 🌟
+<h1 align="center">Hi 👋, I'm Awanish Tiwari</h1>
+<h3 align="center">🚀 Java Backend Developer | Spring Boot | AWS | Full Stack Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:ptawanishtiwari@gmail.com">📧 Email</a> •
+  <a href="#">💼 LinkedIn</a> •
+  <a href="https://github.com/ptawanishtiwari">💻 GitHub</a>
+</p>
 
 ---
 
-👋 **Who Am I?**
+## 🌟 About Me
 
-My name is **Awanish Tiwari**, an aspiring backend developer with a strong foundation in programming and real-time systems. 
-Currently pursuing a Bachelor of Technology in Computer Science Engineering, I am passionate about creating innovative solutions and solving complex problems.
-With expertise in Python, Java, web development, and database management,I aim to make technology a tool for transformation.
-
----
-
-💻 **Skills and Expertise**
-
-🔹 **Programming Languages:**
-- 🐍 Python: Writing efficient, secure, and scalable code.
-- ☕ Java: Proficient in object-oriented programming and backend development.
-- ⚙️ C: Experienced in system-level programming and algorithm implementation.
-- 🌐 JavaScript: Building dynamic and interactive web functionalities.
-
-🔹 **Web Development:**
-- 🎨 HTML and CSS: Crafting user-friendly and responsive interfaces.
-- ⚡ JavaScript: Enhancing user experiences with functional scripting.
-
-🔹 **Frameworks:**
-- 🚀 Spring Boot: Developing robust backend systems.
-- 🔗 JDBC: Ensuring efficient database interactions.
-
-🔹 **Database Management:**
-- 🗄️ MySQL: Designing databases, optimizing queries, and managing data effectively.
-
-🔹 **Tools and Platforms:**
-- 🛠️ MS Office 365, Canva, Adobe Photoshop, Adobe Express, and Adobe Acrobat.
-
-🔹 **Data Structures & Algorithms:**
-- 📚 Proficient in arrays, linked lists, stacks, queues, and more.
+💡 Passionate Backend Developer with hands-on experience in building scalable applications and real-time systems.  
+🎯 Focused on **Spring Boot, REST APIs, and Cloud (AWS)**  
+🧠 Strong in **DSA, OOP, DBMS, System Design**  
+🚀 I love solving real-world problems using technology  
 
 ---
 
-🎓 **Educational Background**
+## 🛠️ Tech Stack
 
-- 🎓 **Bachelor of Technology in Computer Science Engineering** (Expected Graduation: 2026)
-  - Dr. A.P.J Abdul Kalam Technical University,Lucknow
-  - Current Academic Performance: 8.1 CGPA (1st Year); 8.2 CGPA (2nd Year);  8.7 CGPA (3rd Year), 9.2 CGPA (4th year)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🏅 **Diploma in Computer Applications**
-  - Rashtriya Sarva Shiksha Abhiyan India
-  - Grade: A+
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
----
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-Dynamic-yellow?style=for-the-badge)
 
-🛠️ **Projects That Showcase My Work**
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
-1. 🔑 **Real-Time Payment Receiving via QR Code**
-   - Developed a Python-based system to enable secure and seamless money transfers by scanning QR codes.
-
-2. 🗺️ **Indoor Navigation System Prototype**
-   - Designed a 2D graphical navigation system using HTML, CSS, and JavaScript.
-   - Integrated QR codes for easy navigation between locations.
-   - Achieved **First Place** in a competition at Rameshwaram Institute of Technology.
-
-3. 🔒 **Random OTP Generator**
-   - Implemented a secure OTP generator using Java with encryption libraries and random number techniques.
-
-4. 🧮 **Real-World Calculator**
-   - Built a scientific calculator using C++ for advanced computations.
-   - Awarded "Best Project" at a university-level competition.
-
-5. 📋 **Attendance Sheet Management System**
-   - Automated attendance management for institutions using C++, improving accuracy and reducing manual input.
+### ☁️ Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-🏆 **Achievements and Recognition**
+## 🚀 Featured Projects
 
-- 🏅 **Best Prototype Award:** Won at a university-level project presentation.
-- 🥇 **First Rank:** Awarded for the Indoor Navigation System at Rameshwaram Institute of Technology.
-- 📜 **Certificate in Data Analysis & Excel:** Earned from Great Learning.
-- 🥈 **Second Position:** Achieved an 8.1 CGPA in the second year of college.
-
----
-
-🌐 **Portfolio**
-
-Explore more about my work and projects on my [Indoor Navigation System](https://relaxed-dragon-34e282.netlify.app/) page.
+### 🔑 QR Code Payment System
+✔ Python-based secure payment system  
+✔ Real-time QR scanning & transactions  
 
 ---
 
-📬 **Let’s Connect!**
+### 🗺️ Indoor Navigation System
+✔ Built using HTML, CSS, JavaScript  
+✔ QR-based navigation system  
+🏆 **1st Rank Winner**
 
-- ✉️ Gmail: [ptawanishtiwari@gmail.com](mailto:ptawanishtiwari@gmail.com)
-- 📞 Phone: +91-9026261301
-- 🔗 LinkedIn: [Search - Awanish Tiwari]
+🔗 https://relaxed-dragon-34e282.netlify.app/
 
 ---
 
-🚀 I’m always excited to connect with like-minded professionals and work on groundbreaking projects. Let’s build the future of technology together!
+### 🔒 OTP Generator
+✔ Secure OTP system using Java  
+✔ Encryption + Randomization  
+
+---
+
+### 🧮 Scientific Calculator
+✔ Built using C++  
+🏆 **Best Project Award**
+
+---
+
+### 📋 Attendance Management System
+✔ Automated system using C++  
+✔ Improved accuracy & efficiency  
+
+---
+
+## 🏆 Achievements
+
+🏅 Best Prototype Award  
+🥇 1st Rank – Indoor Navigation Project  
+📜 Data Analysis Certification (Great Learning)  
+📊 Solved 150+ DSA Problems  
+
+---
+
+## 🎓 Education
+
+🎓 B.Tech CSE (2022–2026)  
+📍 AKTU, Lucknow  
+📊 CGPA: 8.7  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ptawanishtiwari&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptawanishtiwari&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+📧 Email: ptawanishtiwari@gmail.com  
+📞 Phone: +91-9026261301  
+
+---
+
+## ⚡ Fun Fact
+
+💡 "I don't just write code, I build scalable solutions."
+
+---
+
+⭐ **If you like my work, consider giving a star!**
