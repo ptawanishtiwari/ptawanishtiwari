@@ -1,6 +1,20 @@
-<h1 align="center">Awanish Tiwari</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Awanish Tiwari</h1>
+
 <p align="center">
-🚀 Java Backend Developer | Spring Boot | AWS | Full Stack
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+AWS+%7C+Microservices;Full+Stack+Engineer;DSA+%7C+System+Design+Enthusiast" />
+</p>
+
+<p align="center">
+  <a href="mailto:ptawanishtiwari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/ptawanishtiwari">
+    <img src="https://img.shields.io/github/followers/ptawanishtiwari?label=Follow&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
