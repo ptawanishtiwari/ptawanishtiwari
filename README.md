@@ -1,137 +1,106 @@
 <h1 align="center">Awanish Tiwari</h1>
 <p align="center">
-Java Backend Developer • Spring Boot • AWS • Full Stack
+🚀 Java Backend Developer | Spring Boot | AWS | Full Stack
 </p>
+
+---
+
+## 📊 Profile Overview
 
 <p align="center">
-📍 Lucknow / Prayagraj • 🚀 Open to Opportunities • 🎓 CGPA: 8.7
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Performance-35%25%20Faster-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Students%20Trained-2000%2B-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-5+-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 Profile Snapshot
+## 🧠 Skills Dashboard
 
-| 💼 Experience | ⚡ Performance | 👨‍🏫 Impact | 🚀 Projects |
-|--------------|--------------|------------|------------|
-| 2+ Years     | 35% Faster APIs | 2000+ Students | 5 Projects |
-
----
-
-## 🧠 Skills & Expertise
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-blue?style=flat)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat)
-![C](https://img.shields.io/badge/C-grey?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat)
-![Hibernate](https://img.shields.io/badge/Hibernate-grey?style=flat)
-![REST API](https://img.shields.io/badge/API-blue?style=flat)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat)
-
-### ☁️ Tools
-![AWS](https://img.shields.io/badge/AWS-black?style=flat)
-![Git](https://img.shields.io/badge/Git-red?style=flat)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=flat)
+<p align="center">
+<img src="https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/SpringBoot-Framework-green?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-black?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Linux-DevOps-yellow?style=for-the-badge&logo=linux"/>
+</p>
 
 ---
 
-## 💼 Experience
+## 💼 Experience Dashboard
 
-**🚀 Product Development Engineer Intern**  
-Black Orange Talent Pvt. Ltd. (Jan 2026 – Present)  
-- Built IoT prototypes → 30% efficiency improvement  
-- Trained 2000+ students  
-- Improved real-time system responsiveness  
-
-**💻 Java Full Stack Developer Intern**  
-Softpro India Ltd. (Jun 2025 – Aug 2025)  
-- Built REST APIs (Spring Boot + MySQL)  
-- Reduced API response time by 35%  
-- Handled 1000+ concurrent records  
+<p align="center">
+<img src="https://img.shields.io/badge/Black%20Orange%20Talent-IoT%20Intern-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/30%25-Efficiency%20Boost-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Softpro%20India-Full%20Stack-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/35%25-API%20Speedup-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
 
-### 🔹 PGI Appointment System + AI Chatbot
-- Spring Boot | MySQL | JWT | AI  
-- Role-based authentication system  
-- Handles 1500+ records  
-
----
-
-### 🔹 College ERP System
-- Spring Boot | Hibernate  
-- Multi-role access (Admin/Student/Faculty)  
-- Optimized database schema  
+<p align="center">
+<img src="https://img.shields.io/badge/PGI%20System-AI%20Chatbot-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERP%20System-SpringBoot-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-Car-Bluetooth-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Navigation%20System-1st%20Rank-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QR%20Payment-Python-black?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔹 Bluetooth Robotic Car (IoT)
-- Arduino | HC-05  
-- Real-time control system  
+## 🎓 Education Snapshot
+
+<p align="center">
+<img src="https://img.shields.io/badge/B.Tech%20CSE-AKTU-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.7-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Diploma-A%2B-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔹 Indoor Navigation System 🏆
-- HTML | CSS | JS  
-- QR-based navigation  
-🥇 1st Rank Winner  
+## 🏆 Achievements Panel
 
-🔗 https://relaxed-dragon-34e282.netlify.app/
-
----
-
-### 🔹 QR Payment System
-- Python-based secure payment system  
-
----
-
-## 🎓 Education
-
-**B.Tech CSE (2022–2026)**  
-AKTU, Lucknow  
-CGPA: 8.7  
-
-**Diploma in Computer Applications**  
-Grade: A+  
-
----
-
-## 🏆 Achievements
-
-🏅 NPTEL Java – Elite Silver (IIT Kharagpur)  
-📜 Machine Learning – IIT Delhi  
-🥇 1st Rank – Navigation Project  
-🏆 Best Prototype Award  
-📊 150+ DSA Problems  
+<p align="center">
+<img src="https://img.shields.io/badge/NPTEL-Java%20Elite%20Silver-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-IIT%20Delhi-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rank-1st%20Place-green?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ptawanishtiwari&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ptawanishtiwari&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ptawanishtiwari&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ptawanishtiwari&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ptawanishtiwari&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 📬 Connect
 
-📧 ptawanishtiwari@gmail.com  
-📞 +91-9026261301  
+<p align="center">
+<a href="mailto:ptawanishtiwari@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
-⭐ *“I don’t just write code, I build scalable systems.”*
+⭐ "I build scalable backend systems, not just code."
