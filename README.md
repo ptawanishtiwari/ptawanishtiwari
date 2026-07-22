@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Awanish Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+AWS+%7C+Microservices;Full+Stack+Engineer;DSA+%7C+System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Software+Developer;Spring+Boot+%7C+AWS+%7C+Microservices;Full+Stack+Engineer;DSA+%7C+System+Design+Enthusiast" />
 </p>
 
 <p align="center">
